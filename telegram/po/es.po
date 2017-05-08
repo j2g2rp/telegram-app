@@ -218,7 +218,7 @@ msgstr "%1 le invitó a un chat secreto."
 #: /telegram-app/telegram/app/qml/AccountMessageAction.qml:69
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:302
 msgid "You created the group"
-msgstr "Creó un grupo"
+msgstr "Creó el grupo"
 
 #: /telegram-app/telegram/app/qml/AccountMessageAction.qml:71
 #, qt-format
@@ -1010,26 +1010,26 @@ msgstr "<b>%1</b> cambió el nombre de grupo a %2"
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:283
 #, fuzzy
 msgid "Voice message"
-msgstr "Escriba el mensaje"
+msgstr "Mensaje de voz"
 
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:285
 msgid "Sticker"
-msgstr ""
+msgstr "Sticker"
 
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:297
 #, fuzzy, qt-format
 msgid "%1 joined your secret chat."
-msgstr "%1 le invitó a un chat secreto."
+msgstr "%1 se unió al chat secreto."
 
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:299
 #, fuzzy
 msgid "You joined the secret chat."
-msgstr "Invitó a %1 a unirse a un chat secreto."
+msgstr "Se unió al chat secreto."
 
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:304
 #, fuzzy, qt-format
 msgid "%1 created the group"
-msgstr "Creó un grupo"
+msgstr "%1 creó el grupo"
 
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:310
 #, fuzzy, qt-format
@@ -1044,7 +1044,7 @@ msgstr "<b>%1</b> le añadió"
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:314
 #, fuzzy, qt-format
 msgid "%1 added %2"
-msgstr "%1 a las %2"
+msgstr "%1 añadió a %2"
 
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:319
 #, fuzzy, qt-format
@@ -1059,7 +1059,7 @@ msgstr "Eliminó a <b>%1</b>"
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:324
 #, fuzzy, qt-format
 msgid "%1 removed you"
-msgstr "%1 eliminó a %2"
+msgstr "%1 le eliminó"
 
 #. TRANSLATORS: Notification message saying: person A removed person B (from a group)
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:326
@@ -1071,12 +1071,12 @@ msgstr "%1 eliminó a %2"
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:334
 #, fuzzy, qt-format
 msgid "%1 joined the group via invite link"
-msgstr "Se unió al grupo mediante el enlace de invitación"
+msgstr "%1 se unió al grupo mediante el enlace de invitación"
 
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:338
 #, qt-format
 msgid "%1 is currently offline"
-msgstr ""
+msgstr "%1 se encuentra actualmente desconectado"
 
 #. TRANSLATORS: %1 indicates contact from whom the message was frowarded from.
 #: /telegram-app/telegram/app/qml/components/MessagesListItem.qml:229
@@ -1107,7 +1107,7 @@ msgstr "hh:mm"
 #: /telegram-app/telegram/app/qml/js/time.js:35
 #: /telegram-app/telegram/app/qml/js/time.js:49
 msgid "MMM d"
-msgstr "d de MMM"
+msgstr "d "de" MMM"
 
 #. TRANSLATORS %1 refers to a time of the day
 #: /telegram-app/telegram/app/qml/js/time.js:54
@@ -1131,12 +1131,12 @@ msgstr "%1 a las %2"
 #. http://doc.qt.io/qt-5/qml-qtqml-qt.html#formatDateTime-method
 #: /telegram-app/telegram/app/qml/js/time.js:68
 msgid "mm:ss"
-msgstr ""
+msgstr "mm:ss"
 
 #: /telegram-app/telegram/app/qml/js/time.js:68
 #, fuzzy
 msgid "h:mm:ss"
-msgstr "hh:mm"
+msgstr "h:mm:ss"
 
 #. TRANSLATORS: Format string: time.
 #: /telegram-app/telegram/app/telegram.cpp:287
